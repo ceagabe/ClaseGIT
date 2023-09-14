@@ -1,5 +1,9 @@
-.h2{ font-size: large;
-color: chartreuse;
+h2{ font-size: large;
+    border-style: dashed;
+    border-color: black;
+    font-weight: bold;
+    
+color: green;
 background-color: aqua;
 padding: 20px;
 margin: 30px;
