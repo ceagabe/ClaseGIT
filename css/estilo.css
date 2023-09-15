@@ -11,9 +11,19 @@ margin: 30px;
 }
 
 .contenedor {
+width: 600px;
 display: flex;
-flex-direction: row;
+flex-direction: column;
 flex-wrap: wrap;
 background-color: aqua;
+justify-content: center;
+/*flex-flow: row-reverse; */
+align-content: flex-end;
 
+}
+
+div h1{
+    color: red;
+    background-color: aqua;
+    position: relative;
 }
